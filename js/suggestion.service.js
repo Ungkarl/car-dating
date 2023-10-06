@@ -1,5 +1,5 @@
 import service from "../js/data.service.js";
-import { suggestionsTmpl, suggestionsTmpl2 } from "../js/templates.js"
+import { suggestionsTmpl, suggestionsTmpl2 } from "./templates.js"
 
 const suggestion = {};
 
