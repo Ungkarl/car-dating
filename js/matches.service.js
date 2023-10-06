@@ -1,7 +1,7 @@
 // Importerer nødvendige moduler og funktioner
 import service from "./data.service.js";
 import { favoritesTmpl } from "./templates.js";
-import suggestion from "../js/suggestion.service.js";
+import suggestion from "./suggestion.service.js";
 
 
 const matchesList = {};

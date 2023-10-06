@@ -1,5 +1,5 @@
 
-import suggestion from "../js/suggestion.service.js";
+import suggestion from "./suggestion.service.js";
 import matchesList from "./matches.service.js";
 
 const app = {};
