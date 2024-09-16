@@ -1,7 +1,7 @@
 [
   {
     "ID": 1,
-    "picture": "../assets/guys/guy1.jpg",
+    "picture": "./assets/guys/guy1.jpg",
     "name": "John Doe",
     "age": 30,
     "gender": "Male",
@@ -12,7 +12,7 @@
   },
   {
     "ID": 2,
-    "picture": "../assets/girls/girl2.jpg",
+    "picture": "./assets/girls/girl2.jpg",
     "name": "Emily Johnson",
     "age": 28,
     "gender": "Female",
@@ -23,7 +23,7 @@
   },
   {
     "ID": 3,
-    "picture": "../assets/guys/guy3.jpg",
+    "picture": "./assets/guys/guy3.jpg",
     "name": "Michael Smith",
     "age": 35,
     "gender": "Male",
@@ -34,7 +34,7 @@
   },
   {
     "ID": 4,
-    "picture": "../assets/girls/girl4.jpg",
+    "picture": "./assets/girls/girl4.jpg",
     "name": "Emma Smith",
     "age": 31,
     "gender": "Female",
@@ -45,7 +45,7 @@
   },
   {
     "ID": 5,
-    "picture": "../assets/guys/guy5.jpg",
+    "picture": "./assets/guys/guy5.jpg",
     "name": "David Johnson",
     "age": 28,
     "gender": "Male",
@@ -56,7 +56,7 @@
   },
   {
     "ID": 6,
-    "picture": "../assets/girls/girl1.jpg",
+    "picture": "./assets/girls/girl1.jpg",
     "name": "Olivia Davis",
     "age": 29,
     "gender": "Female",
@@ -67,7 +67,7 @@
   },
   {
     "ID": 7,
-    "picture": "../assets/guys/guy2.jpg",
+    "picture": "./assets/guys/guy2.jpg",
     "name": "William Brown",
     "age": 32,
     "gender": "Male",
@@ -78,7 +78,7 @@
   },
   {
     "ID": 8,
-    "picture": "../assets/girls/girl2.jpg",
+    "picture": "./assets/girls/girl2.jpg",
     "name": "Ava Wilson",
     "age": 33,
     "gender": "Female",
@@ -89,7 +89,7 @@
   },
   {
     "ID": 9,
-    "picture": "../assets/guys/guy3.jpg",
+    "picture": "./assets/guys/guy3.jpg",
     "name": "James Lee",
     "age": 29,
     "gender": "Male",
@@ -100,7 +100,7 @@
   },
   {
     "ID": 10,
-    "picture": "../assets/girls/girl3.jpg",
+    "picture": "./assets/girls/girl3.jpg",
     "name": "Sophia Lee",
     "age": 30,
     "gender": "Female",
@@ -111,7 +111,7 @@
   },
   {
     "ID": 11,
-    "picture": "../assets/guys/guy4.jpg",
+    "picture": "./assets/guys/guy4.jpg",
     "name": "Joseph Wilson",
     "age": 33,
     "gender": "Male",
@@ -122,7 +122,7 @@
   },
   {
     "ID": 12,
-    "picture": "../assets/girls/girl4.jpg",
+    "picture": "./assets/girls/girl4.jpg",
     "name": "Isabella Martinez",
     "age": 32,
     "gender": "Female",
@@ -133,7 +133,7 @@
   },
   {
     "ID": 13,
-    "picture": "../assets/guys/guy5.jpg",
+    "picture": "./assets/guys/guy5.jpg",
     "name": "Charles Davis",
     "age": 27,
     "gender": "Male",
@@ -144,7 +144,7 @@
   },
   {
     "ID": 14,
-    "picture": "../assets/girls/girl5.jpg",
+    "picture": "./assets/girls/girl5.jpg",
     "name": "Charlotte Harris",
     "age": 27,
     "gender": "Female",
@@ -155,7 +155,7 @@
   },
   {
     "ID": 15,
-    "picture": "../assets/guys/guy1.jpg",
+    "picture": "./assets/guys/guy1.jpg",
     "name": "Richard Evans",
     "age": 31,
     "gender": "Male",
@@ -166,7 +166,7 @@
   },
   {
     "ID": 16,
-    "picture": "../assets/girls/girl1.jpg",
+    "picture": "./assets/girls/girl1.jpg",
     "name": "Amelia Taylor",
     "age": 34,
     "gender": "Female",
@@ -177,7 +177,7 @@
   },
   {
     "ID": 17,
-    "picture": "../assets/guys/guy2.jpg",
+    "picture": "./assets/guys/guy2.jpg",
     "name": "Thomas Martinez",
     "age": 34,
     "gender": "Male",
@@ -188,7 +188,7 @@
   },
   {
     "ID": 18,
-    "picture": "../assets/girls/girl2.jpg",
+    "picture": "./assets/girls/girl2.jpg",
     "name": "Lily Anderson",
     "age": 29,
     "gender": "Female",
@@ -199,7 +199,7 @@
   },
   {
     "ID": 19,
-    "picture": "../assets/guys/guy3.jpg",
+    "picture": "./assets/guys/guy3.jpg",
     "name": "Daniel Anderson",
     "age": 26,
     "gender": "Male",
@@ -210,7 +210,7 @@
   },
   {
     "ID": 20,
-    "picture": "../assets/girls/girl3.jpg",
+    "picture": "./assets/girls/girl3.jpg",
     "name": "Avery Johnson",
     "age": 31,
     "gender": "Female",
@@ -221,7 +221,7 @@
   },
   {
     "ID": 21,
-    "picture": "../assets/guys/guy4.jpg",
+    "picture": "./assets/guys/guy4.jpg",
     "name": "John Smith",
     "age": 27,
     "gender": "Male",
@@ -232,7 +232,7 @@
   },
   {
     "ID": 22,
-    "picture": "../assets/girls/girl4.jpg",
+    "picture": "./assets/girls/girl4.jpg",
     "name": "Ella Johnson",
     "age": 32,
     "gender": "Female",
@@ -243,7 +243,7 @@
   },
   {
     "ID": 23,
-    "picture": "../assets/guys/guy5.jpg",
+    "picture": "./assets/guys/guy5.jpg",
     "name": "Matthew Brown",
     "age": 29,
     "gender": "Male",
@@ -254,7 +254,7 @@
   },
   {
     "ID": 24,
-    "picture": "../assets/girls/girl6.webp",
+    "picture": "./assets/girls/girl6.webp",
     "name": "Lana Wilson",
     "age": 35,
     "gender": "Female",
@@ -265,7 +265,7 @@
   },
   {
     "ID": 25,
-    "picture": "../assets/guys/karl.jpg",
+    "picture": "./assets/guys/karl.jpg",
     "name": "Andreas Bøgeskov",
     "age": 21,
     "gender": "Male",
@@ -276,7 +276,7 @@
   },
   {
     "ID": 26,
-    "picture": "../assets/girls/girl1.jpg",
+    "picture": "./assets/girls/girl1.jpg",
     "name": "Hannah Davis",
     "age": 28,
     "gender": "Female",
@@ -287,7 +287,7 @@
   },
   {
     "ID": 27,
-    "picture": "../assets/guys/guy2.jpg",
+    "picture": "./assets/guys/guy2.jpg",
     "name": "Andrew Martinez",
     "age": 31,
     "gender": "Male",
@@ -298,7 +298,7 @@
   },
   {
     "ID": 28,
-    "picture": "../assets/girls/girl2.jpg",
+    "picture": "./assets/girls/girl2.jpg",
     "name": "Olivia Harris",
     "age": 29,
     "gender": "Female",
@@ -309,7 +309,7 @@
   },
   {
     "ID": 29,
-    "picture": "../assets/guys/guy3.jpg",
+    "picture": "./assets/guys/guy3.jpg",
     "name": "Jack Taylor",
     "age": 33,
     "gender": "Male",
@@ -320,7 +320,7 @@
   },
   {
     "ID": 30,
-    "picture": "../assets/girls/girl3.jpg",
+    "picture": "./assets/girls/girl3.jpg",
     "name": "Sophie Anderson",
     "age": 30,
     "gender": "Female",
@@ -331,7 +331,7 @@
   },
   {
     "ID": 31,
-    "picture": "../assets/guys/guy4.jpg",
+    "picture": "./assets/guys/guy4.jpg",
     "name": "Ethan Wilson",
     "age": 28,
     "gender": "Male",
@@ -342,7 +342,7 @@
   },
   {
     "ID": 32,
-    "picture": "../assets/girls/girl4.jpg",
+    "picture": "./assets/girls/girl4.jpg",
     "name": "Ava Brown",
     "age": 32,
     "gender": "Female",
@@ -353,7 +353,7 @@
   },
   {
     "ID": 33,
-    "picture": "../assets/guys/guy5.jpg",
+    "picture": "./assets/guys/guy5.jpg",
     "name": "Liam Taylor",
     "age": 27,
     "gender": "Male",
@@ -364,7 +364,7 @@
   },
   {
     "ID": 34,
-    "picture": "../assets/girls/girl5.jpg",
+    "picture": "./assets/girls/girl5.jpg",
     "name": "Olivia Martinez",
     "age": 34,
     "gender": "Female",
@@ -375,7 +375,7 @@
   },
   {
     "ID": 35,
-    "picture": "../assets/guys/guy1.jpg",
+    "picture": "./assets/guys/guy1.jpg",
     "name": "Mason Harris",
     "age": 29,
     "gender": "Male",
@@ -386,7 +386,7 @@
   },
   {
     "ID": 36,
-    "picture": "../assets/girls/girl1.jpg",
+    "picture": "./assets/girls/girl1.jpg",
     "name": "Sophia Taylor",
     "age": 31,
     "gender": "Female",
@@ -397,7 +397,7 @@
   },
   {
     "ID": 37,
-    "picture": "../assets/guys/guy2.jpg",
+    "picture": "./assets/guys/guy2.jpg",
     "name": "Henry Wilson",
     "age": 28,
     "gender": "Male",
@@ -408,7 +408,7 @@
   },
   {
     "ID": 38,
-    "picture": "../assets/girls/girl2.jpg",
+    "picture": "./assets/girls/girl2.jpg",
     "name": "Madison Johnson",
     "age": 33,
     "gender": "Female",
@@ -419,7 +419,7 @@
   },
   {
     "ID": 39,
-    "picture": "../assets/guys/guy3.jpg",
+    "picture": "./assets/guys/guy3.jpg",
     "name": "Ella Anderson",
     "age": 30,
     "gender": "Male",
@@ -430,7 +430,7 @@
   },
   {
     "ID": 40,
-    "picture": "../assets/girls/girl3.jpg",
+    "picture": "./assets/girls/girl3.jpg",
     "name": "James Davis",
     "age": 31,
     "gender": "Female",
@@ -441,7 +441,7 @@
   },
   {
     "ID": 41,
-    "picture": "../assets/guys/guy4.jpg",
+    "picture": "./assets/guys/guy4.jpg",
     "name": "Ava Smith",
     "age": 32,
     "gender": "Male",
@@ -452,7 +452,7 @@
   },
   {
     "ID": 42,
-    "picture": "../assets/girls/girl4.jpg",
+    "picture": "./assets/girls/girl4.jpg",
     "name": "Liam Taylor",
     "age": 27,
     "gender": "Female",
@@ -463,7 +463,7 @@
   },
   {
     "ID": 43,
-    "picture": "../assets/guys/guy5.jpg",
+    "picture": "./assets/guys/guy5.jpg",
     "name": "Charlotte Harris",
     "age": 27,
     "gender": "Male",
@@ -474,7 +474,7 @@
   },
   {
     "ID": 44,
-    "picture": "../assets/girls/girl5.jpg",
+    "picture": "./assets/girls/girl5.jpg",
     "name": "Thomas Wilson",
     "age": 29,
     "gender": "Female",
@@ -485,7 +485,7 @@
   },
   {
     "ID": 45,
-    "picture": "../assets/guys/guy1.jpg",
+    "picture": "./assets/guys/guy1.jpg",
     "name": "Daniel Anderson",
     "age": 26,
     "gender": "Male",
@@ -496,7 +496,7 @@
   },
   {
     "ID": 46,
-    "picture": "../assets/girls/girl1.jpg",
+    "picture": "./assets/girls/girl1.jpg",
     "name": "Sophia Lee",
     "age": 31,
     "gender": "Female",
@@ -507,7 +507,7 @@
   },
   {
     "ID": 47,
-    "picture": "../assets/guys/guy2.jpg",
+    "picture": "./assets/guys/guy2.jpg",
     "name": "Michael Smith",
     "age": 29,
     "gender": "Male",
@@ -518,7 +518,7 @@
   },
   {
     "ID": 48,
-    "picture": "../assets/girls/girl2.jpg",
+    "picture": "./assets/girls/girl2.jpg",
     "name": "Olivia Davis",
     "age": 29,
     "gender": "Female",
@@ -529,7 +529,7 @@
   },
   {
     "ID": 49,
-    "picture": "../assets/guys/guy3.jpg",
+    "picture": "./assets/guys/guy3.jpg",
     "name": "William Brown",
     "age": 32,
     "gender": "Male",
@@ -540,7 +540,7 @@
   },
   {
     "ID": 50,
-    "picture": "../assets/girls/girl3.jpg",
+    "picture": "./assets/girls/girl3.jpg",
     "name": "Ava Wilson",
     "age": 33,
     "gender": "Female",
