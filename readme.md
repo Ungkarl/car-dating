@@ -2,7 +2,7 @@
 
 ## General Information
 
-You will find several buttons on the site that currently do not have any functionality. These are placeholders for additional features that I am working on.
+You will find several buttons on the site that currently do not have any functionality. These are placeholders for additional features that I am working on. Currently theres a bug with the images not showing, the error is to do with something with githubs way of serving static sites, and cant load them properly.
 
 ## Main Features
 
