@@ -1,10 +1,17 @@
-Gennemgang af sidens funktionalitet:
-Generel information: Flere steder på siden, vil du finde nogle knapper, som ingen funktion har. Det er mig som er i gang med at lave yderligere funktioner på siden.
+# Site Functionality Overview
 
-1. Når siden åbnes, kommer man direkte ind til hvor man kan trykke ja eller nej. Det vil jeg gerne videreudvikle på, så man ligesom sætter en profil op først.
-2. Boksen til højre, er hvor dine mulige matches, vil befinde sig. Grønt lys for ja, rødt for nej.
-3. Når man trykker på grøn, vil personen blive tilføjet i sidebaren, hvor du kan tage din mus over, og der vil komme en hover effekt på, samt billedet vil ændre sig med et kryds som overlay.
-4. Krydset på billedet, fjerner matches igen.
-5. Hvis du trykker på en person over i sidebaren, vil der åbne en profil siden, hvor du igen kan fjerne matchet, eller åbne chatten. 
-6. Du kan sagtens åbne chatten, den er stylet men fungerer ikke som en chat endnu.
-7. I side-baren, kan du søge efter dine matches, både efter alder, eller navn.
+## General Information
+
+You will find several buttons on the site that currently do not have any functionality. These are placeholders for additional features that I am working on.
+
+## Main Features
+
+When you first open the site, you are presented with an interface where you can either click "Yes" or "No" on profiles. I plan to develop this further so that users can set up a profile before engaging with the main features.
+
+The box on the right side of the screen will display your potential matches. A green light indicates a "Yes" response, while a red light indicates "No." 
+
+When you click on a green light, the person's profile will be added to the sidebar. Hovering over this profile in the sidebar will trigger a hover effect and overlay an "X" on the image. Clicking the "X" will remove the match from the sidebar.
+
+If you click on a person in the sidebar, their profile page will open. Here, you can either remove the match or open the chat. The chat interface is styled but not yet functional.
+
+In the sidebar, you can also search for your matches by age or name.
